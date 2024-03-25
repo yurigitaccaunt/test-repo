@@ -18,9 +18,6 @@ use Fusion\Project\EntityTable as ProjectEntity;
 
 class TimeSheetRegistryCommentComponent extends \CBitrixComponent implements Controllerable
 {
-
-
-
     const GRID_ID = 'TIMESHEET_REGISTRY_V2';
     
     /**
